@@ -1,7 +1,7 @@
 Chatbot de hello world do Telegram
 ---
 
-Chatbot desenvolvido num fechamento com a Turma 14 para demonstrar o uso de NodeJs para comunicação com a API do Telegram.
+Chatbot desenvolvido num fechamento com a Turma 14 para demonstrar o uso de NodeJS para comunicação com a API do Telegram.
 
 ## Pré requisitos
 
