@@ -19,3 +19,10 @@ Para executar o código, você vai precisar do **NodeJS na versão 16 ou superio
 
 Não adicione o arquivo `.env` com seu token ao git **em hipótese alguma**.
 O token é sua "chave" para acesso ao bot e deve ser sempre **muito** bem guardado e mantido em segredo.
+
+## Links úteis
+
+- [Documentação da API do Telegram](https://core.telegram.org/bots/api)
+- [Telegram - Introdução a Bots](https://core.telegram.org/bots)
+- [FAQ de Bots do Telegram](https://core.telegram.org/bots/faq)
+- [Bilioteca NodeJS para criar bots do Telegram](https://www.npmjs.com/package/telegraf)
